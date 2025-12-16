@@ -1,9 +1,16 @@
-{ 
+{
     "appName": "E-commerce SMN",
     "version": "1.0.0",
     "layout": { "maxWidth": "1200px",
     "gridColumns": "auto-fill"
      },
+
+    "appName": "E-commerce SMN",
+    "version": "1.0.0",
+    "header": {
+        "stickyHeader": true,
+        "showBadge": true
+    },
 
     "appName": "E-commerce SMN", 
     "version": "1.0.0",    
@@ -17,4 +24,3 @@
     "defaultView": "products" 
     }
 }
-
