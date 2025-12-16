@@ -1,1 +1,8 @@
- { "appName": "E-commerce SMN", "version": "1.0.0", "header": { "stickyHeader": true, "showBadge": true } }
+  {
+    "appName": "E-commerce SMN",
+    "version": "1.0.0",
+    "header": {
+        "stickyHeader": true,
+        "showBadge": true
+    }
+}
