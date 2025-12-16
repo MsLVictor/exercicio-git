@@ -2,7 +2,6 @@
 { 
     "appName": "E-commerce SMN", 
     "version": "1.0.0", 
-    
     "cart": { "autoSave": true, 
     "storageKey": "ecommerce_cart"    
     },
@@ -12,5 +11,12 @@
     "cards": {
         "imageHeight": "200px",
         "hoverEffect": true
-}
+  },
+
+    "appName": "E-commerce SMN",
+    "version": "1.0.0",
+        "app": { "mockProducts": 6, 
+        "defaultView": "products" 
+  } 
+
 }
