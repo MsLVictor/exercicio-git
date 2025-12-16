@@ -1,8 +1,23 @@
-  {
+{ 
+    "appName": "E-commerce SMN", 
+    "version": "1.0.0", 
+    
+    "cart": { "autoSave": true, 
+    "storageKey": "ecommerce_cart"    
+    },
+
+    "appName": "E-commerce SMN",
+    "version": "1.0.0",
+        "app": { "mockProducts": 6, 
+        "defaultView": "products" 
+    },
+
     "appName": "E-commerce SMN",
     "version": "1.0.0",
     "Price": {
         "mockProducts": 8,
         "defaultView": "Psproducts"
     }
+
 }
+
