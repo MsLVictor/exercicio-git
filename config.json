@@ -1,1 +1,8 @@
-//
+ {
+    "appName": "E-commerce SMN",
+    "version": "1.0.0",
+    "cards": {
+        "imageHeight": "200px",
+        "hoverEffect": true
+    }
+}
