@@ -1,22 +1,26 @@
 {
     "appName": "E-commerce SMN",
     "version": "1.0.0",
+    "layout": { "maxWidth": "1200px",
+    "gridColumns": "auto-fill"
+     },
+
+    "appName": "E-commerce SMN",
+    "version": "1.0.0",
     "header": {
         "stickyHeader": true,
         "showBadge": true
     },
 
     "appName": "E-commerce SMN", 
-    "version": "1.0.0", 
-    
+    "version": "1.0.0",    
     "cart": { "autoSave": true, 
     "storageKey": "ecommerce_cart"    
-    },
+    }, 
 
     "appName": "E-commerce SMN",
     "version": "1.0.0",
-        "app": { "mockProducts": 6, 
-        "defaultView": "products" 
-    } 
-
+    "app": { "mockProducts": 6, 
+    "defaultView": "products" 
+    }
 }
