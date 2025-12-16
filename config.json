@@ -6,25 +6,26 @@
     "gridColumns": "auto-fill"
 
 },
-    
+
     "appName": "E-commerce SMN",
     "version": "1.0.0",
     "header": {
         "stickyHeader": true,
         "showBadge": true
  },
+
       "appName": "E-commerce SMN",
     "version": "1.0.0",
     "cards": {
         "imageHeight": "200px",
         "hoverEffect": true
-    },
+ },
 
     "appName": "E-commerce SMN", 
     "version": "1.0.0", 
     "cart": { "autoSave": true, 
     "storageKey": "ecommerce_cart"    
-    },
+ },
 
     "appName": "E-commerce SMN",
     "version": "1.0.0",
