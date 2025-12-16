@@ -1,1 +1,9 @@
-//
+{ 
+    "appName": "E-commerce SMN", 
+    "version": "1.0.0", 
+    
+    "cart": { "autoSave": true, 
+    "storageKey": "ecommerce_cart"    
+    } 
+
+}
